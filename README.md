@@ -11,3 +11,4 @@ Công Ty Cổ Phần Bất Động Sản Thành Công
 Website chính thức: https://thutucnhadat.com.vn
 
 Mọi thông tin cập nhật và chính xác vui lòng tham khảo tại website chính thức.
+Hồ sơ doanh nghiệp trung tâm: https://github.com/thutucnhadat/thutucnhadat-entity
